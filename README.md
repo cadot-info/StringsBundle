@@ -10,4 +10,3 @@ Functions for manipulate string
 - beautify (filename)                  for remove space in string
 
 This code is collect in internet of many times and many web site.
-# StringsBundle
