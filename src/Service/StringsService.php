@@ -35,7 +35,6 @@ class Strings
         return substr($string, $deb + strlen($stringdeb), $fin - $deb - strlen($stringdeb));
     }
 
-
     /**
      * chaine_remplace
      * example chaine_remplace($html, 'background-image', ')', 'background-image: url({{file' . $file  . '}})');  
