@@ -52,15 +52,6 @@ class Strings
         return $html = substr($html, $start, $pos) . $chaine . substr($html, $fin + 1);
     }
 
-    /**
-     * extract
-     *
-     * @param  mixed $str
-     * @param  mixed $pos
-     * @param  mixed $start
-     * @param  mixed $end
-     * @return void
-     */
     function extract($str, $pos, $start, $end = '')
     {
         if ($end == '') $end = $start;
