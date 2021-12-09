@@ -1,9 +1,9 @@
+
 {
     "name": "cadot.info/stringsbundle",
     "description": "Functions on string for Symfony 5",
     "type": "library",
     "require": {
-      "php": ">=7.2.5"
      
   }
   ,
